@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/BlogLayout.astro
-title: Maybe the meaning of life is to play factorio!"
+title: Maybe the meaning of life is to play factorio!
 pubDate: 2023-12-23
-description: "A journey through our principles for a future shaped by optimism."
+description: "A journey through our principles for a future shaped by fallibilism and optimism."
 author: "Sehaj and Aman"
 ---
 **IN REAL LIFE!**
@@ -13,7 +13,7 @@ For those who don’t know, [factorio](http://factorio.com) is a game where you 
 
 Playing factorio in real life, for us, means being a definite optimist, understanding ways of creating, doing hard tech at scale, working with (intelligent) machines, using the means of abundant energy, organizing intelligence to advance civilization using the means of capitalism, by arranging atoms in novel and useful ways, letting only nature and free markets validate our conjectures, embracing universal knowledge creation principles of fallibilism, understanding nature and society, building the best factories in our solar system, and knowing that any good system takes (a very long) time to build.
 
-Factories are physical places in spacetime which produce extraordinary value from resources at hands, and make lives fundamentally better (resources in, products out). The capability of our factories determine the capability of our civilization. And it is the backbone of any advancing civilization. It might be a good time to spend human-flops in this area because of the great stagnation. And because manufacturing is hard. Much harder than we think we can even imagine right now.
+Factories are physical places in spacetime which produce extraordinary value from resources at hands, and make lives fundamentally better (resources in, products out). The capability of our factories determine the capability of our civilization. And it is the backbone of any advancing civilization. It might be a good time to spend human-flops in this area because of the great stagnation. And because manufacturing is hard (and exciting). Much harder than we think we can even imagine right now.
 
 But how can something so mechanical, devoid of any divinity or supernatural certainty be the answer to one of the most important philosophical and historical questions which steered human civilization to where it is, directly, that is, the meaning of life?
 
@@ -23,7 +23,7 @@ And what religious, life or moral philosophy fundamentally allows, supports and 
 
 The ideas of techno-progress with a touch of fallibilism and optimism? Maybe. The richest man in the world uses the same computers as a middle class person. World class products for everyone, making everyone richer. Factories make that possible. The road from starting agriculture to building rockets, is almost entirely the story of building better hardware, and thus, better factories.
 
-So earth is about to complete its revolution around the sun, which is our 19th one. This is a snapshot of principles we want to be guided with. The main reason behind this is to make sure we don’t acclimate to the ways of mediocrity, and lose our optimism in the future. This is a culmination of years of exploration we’ve been doing to find better ways of thinking about work, life, society and the universe - but it is in no way exhaustive, and we will be adding more things as we go through life.
+So earth is about to complete its revolution around the sun, and today we (brothers) completed our 19th one. This is a snapshot of principles we want to be guided with. The main reason behind this is to make sure we don’t acclimate to the ways of mediocrity, and lose our optimism in the future. This is a culmination of years of exploration we’ve been doing to find better ways of thinking about work, life, society and the universe - but it is in no way exhaustive, and we will be adding more as we go through life.
 
 1. Fallibilism and intellectual humility. The idea that one can be wrong about anything at anytime. One needs to strive to get better explanations. Conjecture and refutation. [Evolution](https://www.youtube.com/watch?v=N3tRFayqVtk) does that, so who are we not to? It’s probably good to assume we’re fools, even if we are not (though we probably are).
 
@@ -37,7 +37,7 @@ So earth is about to complete its revolution around the sun, which is our 19th o
 
 6. Create massive value for civilization, and make sure to capture some of it. That is done by solving problems, at scale. Technology + capital = progress.
 
-7. Curiosity as a philosophy is good. "What you read is who you are”. Read a lot. If you dont read anything, youre probably no one. Read science fiction, it expands one's imaginative capabilities.
+7. Curiosity as a philosophy is good. "What you read is who you are”. Read a lot. If you dont read anything, you're probably no one. Read science fiction, it expands one's imaginative capabilities.
 
 8. We want to be applied scientists. We want to be able to try to solve the hardest technical problems of our time. We want to build the best hardware products, and the best factories on the planet. 
 
@@ -57,13 +57,13 @@ So earth is about to complete its revolution around the sun, which is our 19th o
 
 12. Pursue bold and crazy ideas but with good explanations backing them and insights into what things can happen (unlike [galactic](https://en.wikipedia.org/wiki/Asgardia)  [micronations](https://en.wikipedia.org/wiki/Nation_of_Celestial_Space)).
 
-	> “Build technology, and don’t lie AND Don’t fake it till you make it, be honest and hope you make it.” – geohot
+	> “Build technology and don’t lie, AND don’t fake it till you make it, be honest and hope you make it.” – geohot
 
 13. Our biggest and the hardest goal currently, is to be in the room with the smartest people on the planet. We are building [wayfarers](https://wayfarers.space/).
 
 14. Where do you want to be when AGI comes? Be prepared to welcome it with open arms. Work to allow it to do wonders for us. Build infrastructure for that.
 
-15. Dear activists [wont](https://rameznaam.com/2019/04/02/the-third-phase-of-clean-energy-will-be-the-most-disruptive-yet/#:~:text=Building%20new%20solar%2C%20wind%2C%20and,That%20will%20change%20everything.) save me, capitalism will. Capitalism and free markets preserves the values of error correction.
+15. Dear activists [won't](https://rameznaam.com/2019/04/02/the-third-phase-of-clean-energy-will-be-the-most-disruptive-yet/#:~:text=Building%20new%20solar%2C%20wind%2C%20and,That%20will%20change%20everything.) save me, capitalism will. Capitalism and free markets preserves the values of error correction.
 
     > "Find someone with money who needs a problem solved and solve it, repeat" - Casey Handmer
 
@@ -102,7 +102,7 @@ So earth is about to complete its revolution around the sun, which is our 19th o
 
 29. Contrary to popular belief, capital is cheap. There is [too](https://www.youtube.com/watch?v=vJbvzkXiex8) much money in the world.
     
-30. If someone watches everyone’s life from universe’s perspective, what would he say about yours? Are you crazy enough? When was the last time you got ecstatic [like this](https://www.youtube.com/watch?v=QxeVJGVR6iI&t=100s)?
+30. If someone watches everyone’s life from universe’s perspective, what would he say about yours? Are you crazy enough? When was the last time you got excited [like this](https://www.youtube.com/watch?v=QxeVJGVR6iI&t=100s)?
     
 31. Hard problems are like climbing out of a well. Money (entries in a sql database) can only take you so far. 
 
