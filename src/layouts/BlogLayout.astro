@@ -10,7 +10,6 @@ function formatDate(dateString: any) {
   return `${day} ${month} ${year}`;
 }
 ---
-
 <Layout title={frontmatter.title} description={frontmatter.description}>
   <main
     class="mt-36 w-full min-h-screen flex flex-col items-center content-center justify-start align-middle"
@@ -29,6 +28,11 @@ function formatDate(dateString: any) {
         >
           {formatDate(frontmatter.pubDate)}
         </p>
+        <p
+          class="text-lighttext dark:text-darktext text-xs font-mono md:text-sm"
+        >
+          By {frontmatter.author}
+        </p>
       </div>
       <div
         class="markdown prose max-w-screen-sm prose-headings:font-medium prose-headings:text-lightheading dark:prose-headings:text-darkheading prose-gray dark:prose-invert"
@@ -38,9 +42,3 @@ function formatDate(dateString: any) {
     </div>
   </main>
 </Layout>
-
-<style>
-  .markdown-content p {
-    @apply w-full text-left text-lighttext dark:text-darktext !important;
-  }
-</style>
