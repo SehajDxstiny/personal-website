@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogLayout.astro
 title: "The meaning of life might be to play factorio!"
 pubDate: 2023-12-23
-description: "The meaning of life might be to play factorio!"
+description: "Maybe the meaning of life is to play factorio!"
 author: "Sehaj and Aman"
 ---
 **IN REAL LIFE!**
