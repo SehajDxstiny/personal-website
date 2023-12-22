@@ -3,33 +3,34 @@ import Layout from '../layouts/Layout.astro';
 
 const frontmatter = {
   title: "Recommended Games",
-  description: "do yourself a big favour.",
+  description: "Do yourself a big favour.",
 };
 ---
 <Layout title={frontmatter.title} description={frontmatter.description}>
   <main class="flex justify-start items-start min-h-screen pt-20">
     <div class="w-full max-w-xl px-8">
-      <h2 class="text-2xl font mb-4 text-left italic">play:</h2>
-      <ol class="list-decimal list-inside space-y-2">
-        <li> Elden Ring</li>
+      <h2 class="text-2xl font-bold mb-4 text-left italic dark:text-white">play:</h2>
+      <ol class="list-decimal list-inside space-y-2 text-gray-900 dark:text-gray-300">
+        <li>Elden Ring</li>
         <li>The Last of Us Part II</li>
         <li>Outer Wilds</li>
         <li>Detroit Become Human</li>
         <li>Death Stranding</li>
-        <li>Red Dead Redemption 2
+        <li>Red Dead Redemption 2</li>
       </ul>
-    <!-- Images added below -->
-    <div class="space-y-4 my-8">
-      <img src="/images/image_3.jpg" alt="tlou2" />
-      <img src="/images/image_1.png" alt="Description of image2" />
-      <img src="/images/image_5.png" alt="Description of image3" />
-      <img src="/images/image_6.png" alt="Description of image4" />
-      <img src="/images/image_4.jpg" alt="Description of image5" />
-      <img src="/images/image_2.jpg" alt="Description of image6" />
-    </div>
-    </div>
-  </main>
-</Layout>
+      <!-- Images added below -->
+      <div class="space-y-4 my-8">
+        <img src="/images/image_3.jpg" alt="elden ring" />
+        <img src="/images/image_1.png" alt="the last of us part II" />
+        <img src="/images/image_5.png" alt="outer wilds " />
+        <img src="/images/image_6.png" alt="detroit become human" />
+        <img src="/images/image_4.jpg" alt="death stranding" />
+        <img src="/images/image_2.jpg" alt="rdr2" />
+      </div>
+      </div>
+    </main>
+  </Layout> -->
+
 
 
 
