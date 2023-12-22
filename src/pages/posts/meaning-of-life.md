@@ -104,7 +104,7 @@ So earth is about to complete its revolution around the sun, which is our 19th o
     
 31. Hard problems are like climbing out of a well. Money (entries in a sql database) can only take you so far. 
 
-	> :Keep climbing slowly, with no regressions, and slow & continuous
+	> "Keep climbing slowly, with no regressions, and slow & continuous
     > improvement" - geohot
     
 31.  [Wealth](https://www.youtube.com/watch?v=7Hdu4DlnLIk) allows you to allocate resources for the creation of new knowledge and more physical transformation. The pie isn’t [fixed](http://www.paulgraham.com/wealth.html). It grows larger and larger with the creation of new knowledge.
