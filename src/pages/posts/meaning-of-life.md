@@ -23,7 +23,7 @@ And what religious, life or moral philosophy fundamentally allows, supports and 
 
 The ideas of techno-progress with a touch of fallibilism and optimism? Maybe. The richest man in the world uses the same computers as a middle class person. World class products for everyone, making everyone richer. Factories make that possible. The road from starting agriculture to building rockets, is almost entirely the story of building better hardware, and thus, better factories.
 
-So earth is about to complete its revolution around the sun, and today we (brothers) completed our 19th one. This is a snapshot of principles we want to be guided with. The main reason behind this is to make sure we don’t acclimate to the ways of mediocrity, and lose our optimism in the future. This is a culmination of years of exploration we’ve been doing to find better ways of thinking about work, life, society and the universe - but it is in no way exhaustive, and we will be adding more as we go through life.
+So earth is about to complete its revolution around the sun, and today we (brothers) completed our 19th one. This is a snapshot of principles we want to be guided with, written in the form of [aphorisms](https://en.wikipedia.org/wiki/The_Bed_of_Procrustes). The main reason behind this is to make sure we don’t acclimate to the ways of mediocrity, and lose our optimism in the future. This is a culmination of years of exploration we’ve been doing to find better ways of thinking about work, life, society and the universe - but it is in no way exhaustive, and we will be adding more as we go through life.
 
 1. Fallibilism and intellectual humility. The idea that one can be wrong about anything at anytime. One needs to strive to get better explanations. Conjecture and refutation. [Evolution](https://www.youtube.com/watch?v=N3tRFayqVtk) does that, so who are we not to? It’s probably good to assume we’re fools, even if we are not (though we probably are).
 
@@ -119,7 +119,7 @@ So earth is about to complete its revolution around the sun, and today we (broth
     
 35. Sorry, but most people are noobs. Not in intelligence, but in motivations. And most people don’t do great things, not because they can’t, but perhaps because they don’t want to.
     
-36. People are not rational. We are so much driven by biology. [High vs Low rung](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html). Please meditate.
+36. We are driven so much by biology due to evolutionary reasons. [High vs Low rung](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html). Please meditate.
    
 37. Life is a playground. Also, does god exist? We don’t know. But the act of questioning probably holds more value than the answers.
     
@@ -132,7 +132,7 @@ So earth is about to complete its revolution around the sun, and today we (broth
 	> "Two kinds of fools - those who take religion literally, and those who
     > think it has no value", "Buddha wasn’t a buddhist" - Naval
 
-38. Create more than you consume. The consumer [class](https://geohot.github.io/blog/jekyll/update/2022/02/02/consumer-class-divide.html) might be a plague. I admire those who make (or aspire to) my life on this blue dot better.
+38. Create more than you consume. I admire those who make (or aspire to) my life on this blue dot better.
    
 39.  [Meditation](https://youtu.be/G3XUee3-meA?si=0uIZIoID4kRkjI6I) is learning by nature, not people. Self is a thought which never goes away. Normalize silence, sit in a room with your thoughts and nothing else, magic happens when you give it space to exist.
     
