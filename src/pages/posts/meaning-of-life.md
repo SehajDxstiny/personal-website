@@ -3,7 +3,7 @@ layout: ../../layouts/BlogLayout.astro
 title: Maybe the meaning of life is to play factorio!
 pubDate: 2023-12-23
 description: "A journey through our principles for a future shaped by fallibilism and optimism."
-author: "Sehaj and Aman"
+author: Sehaj and Aman
 ---
 **IN REAL LIFE!**
 
@@ -119,7 +119,7 @@ So earth is about to complete its revolution around the sun, and today we (broth
     
 35. Sorry, but most people are noobs. Not in intelligence, but in motivations. And most people don’t do great things, not because they can’t, but perhaps because they don’t want to.
     
-36. We are driven so much by biology due to evolutionary reasons. [High vs Low rung](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html). Please meditate.
+36. We are driven so much by biology due to evolutionary reasons which forces people not act rationally (sometimes in some cases). [High vs Low rung](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html). Please meditate.
    
 37. Life is a playground. Also, does god exist? We don’t know. But the act of questioning probably holds more value than the answers.
     
