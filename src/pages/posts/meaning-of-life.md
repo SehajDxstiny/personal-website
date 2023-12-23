@@ -9,7 +9,7 @@ author: Sehaj and Aman
 
 ![Playing Factorio in real life, a concept art of a futuristic factory on an alien planet](/images/factorio.png)
 
-For those who don’t know, [factorio](http://factorio.com) is a game where you build and maintain massive factories in order to build a rocket to get out of the planet you crash landed in.
+For those who don’t know, [factorio](http://factorio.com) is a game where you build and maintain massive factories in order to build a rocket to get out of the planet you crash landed on.
 
 Playing factorio in real life, for us, means being a definite optimist, understanding ways of creating, doing hard tech at scale, working with (intelligent) machines, using the means of abundant energy, organizing intelligence to advance civilization using the means of capitalism, by arranging atoms in novel and useful ways, letting only nature and free markets validate our conjectures, embracing universal knowledge creation principles of fallibilism, understanding nature and society, building the best factories in our solar system, and knowing that any good system takes (a very long) time to build.
 
