@@ -39,7 +39,7 @@ So earth is about to complete its revolution around the sun, and today we (broth
 
 7. Curiosity as a philosophy is good. "What you read is who you are”. Read a lot. If you dont read anything, you're probably no one. Read science fiction, it expands one's imaginative capabilities.
 
-8. We want to be applied scientists. We want to be able to try to solve the hardest technical problems of our time. We want to build the best hardware products, and the best factories on the planet. 
+8. We want to be applied scientists. We want to be able to try to solve the hardest technical problems of our time. We want to build the best hardware products, and the best factories on the planet. Physics runs the world.
 
 	> “There are enough smart people working on every possible permutation of code that your particular marginal addition is unlikely to accelerate the future by more than a few weeks, maybe months.” - Casey Handmer
 
@@ -142,4 +142,12 @@ So earth is about to complete its revolution around the sun, and today we (broth
    
 42. Theory is comforting but life's epitome should be that of action, not of learning. So back to work.  
 
+
+Holy content pieces:
+- [You Should Be Working On Hardware](https://caseyhandmer.wordpress.com/2023/08/25/you-should-be-working-on-hardware/)
+- [The Techno-Industrial Revolution](https://www.notboring.co/p/the-techno-industrial-revolution)
+- [Do It Yourself. Here's how REAL movements start, then change the world.](https://www.youtube.com/watch?v=JbHip4tjEcg)
+- [Little Dark Age - Technology & the Future](https://www.youtube.com/watch?v=AHfnuJSj2ng)
+- [Making Apple Vision Pro](https://www.youtube.com/watch?v=luFGI13Mv8o)
+- [Flying Through Giga Berlin](https://www.youtube.com/watch?v=7-4yOx1CnXE)
 
