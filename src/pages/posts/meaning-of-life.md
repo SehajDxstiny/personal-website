@@ -150,4 +150,6 @@ Holy content pieces:
 - [Little Dark Age - Technology & the Future](https://www.youtube.com/watch?v=AHfnuJSj2ng)
 - [Making Apple Vision Pro](https://www.youtube.com/watch?v=luFGI13Mv8o)
 - [Flying Through Giga Berlin](https://www.youtube.com/watch?v=7-4yOx1CnXE)
+- [Choose Good Quests](https://foundersfund.com/2023/06/choose-good-quests/)
+
 
