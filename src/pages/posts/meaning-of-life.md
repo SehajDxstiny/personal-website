@@ -39,7 +39,7 @@ So earth is about to complete its revolution around the sun, and today we (broth
 
 7. Curiosity as a philosophy is good. "What you read is who you are”. Read a lot. If you dont read anything, you're probably no one. Read science fiction, it expands one's imaginative capabilities.
 
-8. We want to be applied scientists. We want to be able to try to solve the hardest technical problems of our time. We want to build the best hardware products, and the best factories on the planet. Physics runs the world.
+8. We want to be applied scientists. We want to be able to try to solve the hardest technical problems of our time. We want to build the best hardware products, and the best factories on the planet. For us to work on hardtech we need capital, network and expertise (that's what we are going to do this decade). 
 
 	> “There are enough smart people working on every possible permutation of code that your particular marginal addition is unlikely to accelerate the future by more than a few weeks, maybe months.” - Casey Handmer
 
@@ -55,7 +55,7 @@ So earth is about to complete its revolution around the sun, and today we (broth
 
 	> “I know of no better life purpose than to perish in attempting the great and the impossible.” - Nietzsche
 
-12. Pursue bold and crazy ideas but with good explanations backing them and insights into what things can happen (unlike [galactic](https://en.wikipedia.org/wiki/Asgardia)  [micronations](https://en.wikipedia.org/wiki/Nation_of_Celestial_Space)).
+12. Pursue bold and crazy ideas but with good explanations backing them and insights into what things can happen (unlike [galactic](https://en.wikipedia.org/wiki/Asgardia)  [micronations](https://en.wikipedia.org/wiki/Nation_of_Celestial_Space)). Physics runs the world.
 
 	> “Build technology and don’t lie, AND don’t fake it till you make it, be honest and hope you make it.” – geohot
 
