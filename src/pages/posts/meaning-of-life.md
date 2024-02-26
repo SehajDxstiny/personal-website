@@ -140,7 +140,9 @@ So earth is about to complete its revolution around the sun, and today we (broth
    
 41. We are aware that most of our thoughts, principles and ideas are mostly influenced by what we see, and consume on the internet. We know and understand that we only see the winners (survivorship bias).
    
-42. Theory is comforting but life's epitome should be that of action, not of learning. So back to work.  
+42. Network is crucial. 
+
+43. Theory is comforting but life's epitome should be that of action, not of learning. So back to work.  
 
 
 Holy content pieces:
