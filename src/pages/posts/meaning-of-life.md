@@ -154,6 +154,8 @@ Holy content pieces:
 - [Flying Through Giga Berlin](https://www.youtube.com/watch?v=7-4yOx1CnXE)
 - [Choose Good Quests](https://foundersfund.com/2023/06/choose-good-quests/)
 - [Sci-Fi Idea bank](https://www.notboring.co/p/sci-fi-idea-bank)
+- [Mars Industrialization Roadmap](https://www.youtube.com/watch?v=11hYo9UTSRM)
+
 
 
 
