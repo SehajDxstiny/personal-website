@@ -6,6 +6,8 @@ description: "A list of questions to think about"
 author: Sehaj
 ---
 
+!["what is that?"](/images/pink_wonder.png)
+
 
 1. Where would you want to be when AGI comes? 
 2. Where would you want to be when the industrialisation of mars starts? [(1)](https://caseyhandmer.wordpress.com/2021/05/21/new-opportunities-for-space-companies/)
