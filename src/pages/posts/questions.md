@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Writings.astro
-title: Questions to think about 
+title: Attempt at Being Closer to the Fallibilistic Nature of Life
 pubDate: 2024-3-16
 description: "A list of questions to think about"
 author: Sehaj
