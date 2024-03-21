@@ -21,4 +21,5 @@ author: Sehaj
 8. What is your place in the universe considering a. cosmic humility b. societal conditioning c. illusion of self d. evolution's guidance? [(1)](https://www.youtube.com/watch?v=zpTxBkmr4LE&t=4s)
 9. Are you one of those guiding humanity towards increasing progress via definite optimism, or those who straddle along to support the former via indefinite optimism? (Pessimism is evil, so out of the question)
 10. Is it objective (nature) or games created by humans?
+11. Are you able to understand greg egan's works? 
 
