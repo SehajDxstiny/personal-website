@@ -115,7 +115,7 @@ So earth is about to complete its revolution around the sun, and today we (broth
    
 33. We are privileged. Many aren't.
    
-34.  [Local optimum](https://www.youtube.com/watch?v=5qjA8HPJl_0) of low expectation. Mediocrity or local maximas are alluring but evil. Meditate on how short life is, and the true place of oneself in the grand scheme of cosmic, luck, societal and evolutionary humility.
+34.  [Local optimum](https://www.youtube.com/watch?v=5qjA8HPJl_0) of low expectation. Mediocrity or local maximas are alluring but evil. Meditate on how short life is, and the true place of oneself in the grand scheme of cosmic, luck, societal and evolutionary humility. "An engine of creation and progress in an ocean of mediocrity and stupidness"
     
 35. Sorry, but most people are noobs. Not in intelligence, but in motivations. And most people don’t do great things, not because they can’t, but perhaps because they don’t want to.
     

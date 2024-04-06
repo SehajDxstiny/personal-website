@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Writings.astro
-title: Closer to the Fallibilistic Nature of Life
+title: Questions to wonder about. 
 pubDate: 2024-3-16
 description: "A list of questions to think about"
 author: Sehaj
@@ -8,7 +8,7 @@ author: Sehaj
 
 !["what is that?"](/images/pink_wonder.png)
 
-*questions to think about*
+*fallibilism*
 
 
 1. Where would you want to be when AGI comes? 
