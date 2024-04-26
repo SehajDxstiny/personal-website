@@ -39,9 +39,12 @@ So earth is about to complete its revolution around the sun, and today we (broth
 
 7. Curiosity as a philosophy is good. "What you read is who you are”. Read a lot. If you dont read anything, you're probably no one. Read science fiction, it expands one's imaginative capabilities.
 
+	> “There are enough smart people working on every possible permutation of code that your particular marginal addition is unlikely to accelerate the future by more than a few weeks, maybe months.” - Casey Handmer
+
+
 8. We want to be applied scientists. We want to be able to try to solve the hardest technical problems of our time. We want to build the best hardware products, and the best factories on the planet. For us to work on hardtech we need capital, network and expertise (that's what we are going to do this decade). 
 
-	> “There are enough smart people working on every possible permutation of code that your particular marginal addition is unlikely to accelerate the future by more than a few weeks, maybe months.” - Casey Handmer
+	> "To romance of the future may seem to be indulgence in ungoverned speculation for the sake of the marvellous. Yet controlled imagination in this sphere can be a very valuable exercise for minds bewildered about the present and its potentialities. Today we should welcome, and even study, every serious attempt to envisage the future of our race; not merely in order to grasp the very diverse and often tragic possibilities that confront us, but also that we may familiarize ourselves with the certainty that many of our most cherished ideals would seem puerile to more developed minds. To romance of the far future, then, is to attempt to see the human race in its cosmic setting, and to mould our hearts to entertain new values." On why we need science fiction - by Olaf Stapledon (1930)
 
 9. When there is a gold rush, don’t sell shovels. Sell AI robots which do the digging for you. You get the point. 
  
