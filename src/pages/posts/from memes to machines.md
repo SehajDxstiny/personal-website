@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Writings.astro
 title: From Memes to Machines 
-pubDate: 2024-3-16
+pubDate: 2024-5-22
 description: "why industrialisation is a must?"
 author: Sehaj
 ---
