@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/Writings.astro
-title: Why did nuclear fail?. 
+title: Why did nuclear fail?
 pubDate: 2024-2-11
-description: "reasns for the decline of nuclear energy"
+description: "reasons for the decline of nuclear energy"
 author: Sehaj
 ---
 
