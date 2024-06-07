@@ -7,6 +7,9 @@ author: Sehaj
 ---
 _Why does society's transition from being dominated by anti-rational memes to rational memes mandate large-scale industrialization?_
 
+![in-situ on mars](/images/image8.png)
+
+
 credits: David Deutsch and his works
 
 
@@ -27,6 +30,8 @@ The simple idea that “you are not allowed to criticize something” for it is 
 
 “We have, so far, been transformed from the victims (and enforcers) of an eternal status quo into the mainly passive recipients of the benefits of relatively rapid innovation in a bumpy transition period. We now have to accept, and rejoice in bringing about, our next transformation: to active agents of progress in the emerging rational society – and universe.”
 
+---
+
 **THE OPTIMISATION FUNCTION**
 
 Considering a more dynamic society than what we have today, what should (and will be) its optimizing function be? I think it should be to get as much wealthy, as much technologically capable and knowledgeable as possible, as quickly as possible. Why? Because we do not know what problems we will encounter in the future, and our best choice is to prepare for it, by the way of rapid progress.
@@ -38,8 +43,7 @@ A interstellar-space faring civilisation living in a post-scarcity world, having
 And how do you get there? Large-scale industrialisation. Energy abundance, advanced manufacturing, automation, advanced materials science, harnessing intelligence, better transportation, advanced communication - for how can it be otherwise?
 
 
-
-
+---
 
 **THE INDUSTRIALISATION**
 
