@@ -9,10 +9,6 @@ _Why does society's transition from being dominated by anti-rational memes to ra
 
 ![in-situ on mars](/images/image8.png)
 
-
-credits: David Deutsch and his works
-
-
 **RATIONAL AND ANTI-RATIONAL MEMES**
 
 Meme is an abstract analogue of a gene, simply an idea that tends to get replicated. Anti-rational memes are those ideas that causes themselves to be not criticized and resists error correction. A society dominated by anti-rational memes, like most in human history, is a static society - where change is very slow, no new ideas are created and no innovation happens. A true stagnation occurring because such a society disables the very source of new ideas, namely human creativity. It does so either by channeling the creativity towards ever greater replication of the same anti-rational meme or making it so hard for people to even think of new things in the first place. It suppresses human ingenuity, new ideas, spirit and disables the critical faculties of the holders, just to keep things unchanged and to prevent progress. It does so rightly because change in static societies is harmful, because it is random, and not carefully calibrated and a thoughtful change. This scenario resembles evolution by natural selection where ideas slowly vary each time it replicates (communicated to other humans), and over a long period of time form into some other, good or bad. 
@@ -59,3 +55,7 @@ If aliens were to visit, what blueprint will they judge us through? Perhaps a ci
 Just think what major things you think about while playing factorio? Or what would an alien be interested in, if it were to come to earth to check it out? Or what the countries during WWII thought they should improve? 
 
 The ability to produce things  given certain raw materials, efficiently,  is the backbone of everything. And if rational memes guide us towards the optimisation function of progress, massive industrialisation is the only way forward. 
+
+---
+
+Credits: David Deutsch 
