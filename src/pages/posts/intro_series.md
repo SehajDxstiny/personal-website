@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Writings.astro
-title: From Memes to Machines 
+title: A (large) series on the human tech tree.
 pubDate: 2024-5-24
 description: "why industrialisation is a must?"
 author: Sehaj and Aman
