@@ -30,7 +30,7 @@
           <line x1="4" x2="20" y1="18" y2="18"></line>
         </svg>
       </button>
-      <button id="theme-switcher">
+      <!-- <button id="theme-switcher">
         <span id="theme-icon" class="dark:stroke-darktext stroke-lighttext"
           ><svg
             xmlns="http://www.w3.org/2000/svg"
@@ -45,7 +45,7 @@
               stroke-linejoin="round"></path></svg
           ></span
         >
-      </button>
+      </button> -->
     </ul>
   </div>
 </nav>
@@ -172,7 +172,8 @@
   }
 
   // Initialize theme on load
-  const savedTheme = localStorage.getItem("theme") || "system";
+  // const savedTheme = localStorage.getItem("theme") || "system";
+  const savedTheme = "light";
   applyTheme(savedTheme);
   updateThemeIcon(savedTheme);
 
